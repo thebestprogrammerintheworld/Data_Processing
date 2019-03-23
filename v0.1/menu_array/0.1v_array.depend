@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553301397 source:c:\users\darius\desktop\programming\c++\project\data_processing\v0.1\menu_array\functions.cpp
+	"functions.h"
+
+1553300501 c:\users\darius\desktop\programming\c++\project\data_processing\v0.1\menu_array\functions.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1553300501 source:c:\users\darius\desktop\programming\c++\project\data_processing\v0.1\menu_array\main.cpp
+	"functions.h"
+
