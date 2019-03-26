@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553626983 source:c:\users\darius\desktop\programming\c++\project\data_processing\v0.2\functions.cpp
+	"functions.h"
+
+1553448578 c:\users\darius\desktop\programming\c++\project\data_processing\v0.2\functions.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+
+1553626963 source:c:\users\darius\desktop\programming\c++\project\data_processing\v0.2\main.cpp
+	"functions.h"
+
