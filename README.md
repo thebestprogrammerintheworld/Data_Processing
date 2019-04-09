@@ -11,3 +11,5 @@ The program was further upgraded from the vector type container realization of t
 In this version, exception handling was added in places where a user has to enter marks for homeworks (it throws an error if it is out of range) and also where the filename has to be specified in order to read from a file. To implement exception handling, try and catch were used. 
 ## v0.4
 Further fnctionality was added. The program now includes an option to generate a template .txt file with random results. In accordance with requirements, it generates 5 files of different sizes. After generating the files, the user can read the files in order to sort the students according their results into two separate files. Chrono library was used to perform a speed rate analysis of the program. Code length has increased to 437 lines. At this point the code lacks efficiency and can be optimized at some places to reduce the size of the code and improve readability.
+
+[Download link](https://github.com/thebestprogrammerintheworld/Data_Processing/releases/tag/v0.1-0.4)
